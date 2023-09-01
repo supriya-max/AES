@@ -1,3 +1,5 @@
 there are total 12 classes
 including pre kg abd ukg
-each class has 20 students each`
+each class has 20 students each
+all the classrooms has 2 fans
+
